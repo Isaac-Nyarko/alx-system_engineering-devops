@@ -1,1 +1,1 @@
-I am doing a task on Shell redirections
+Printing Hello World on the screen
