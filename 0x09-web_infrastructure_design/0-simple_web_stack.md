@@ -10,7 +10,7 @@ Each component (database, application server) has to share the resources (CPU, R
 
 <h3>Specifics About This Infrastructure</h3>
 
-<ul list style type= disc>
+<ul list style type= circle> 
 
 <li> A server is a computer program or device that provides functionality for other programs or devices, called “clients”. 
 Servers can provide various functionalities such as file storage and sharing, email services, web hosting, and more. </li>
