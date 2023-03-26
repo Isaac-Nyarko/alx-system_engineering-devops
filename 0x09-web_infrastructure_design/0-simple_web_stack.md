@@ -35,3 +35,13 @@ In the context of web hosting, a database is typically used to store and manage 
 The web server then processes this request message and sends back an HTTP response message containing the requested content. </li>
 </ul>
 
+<h3>Issues With This Infrastructure</h3> <hr>
+
+<ul list style type= circle> 
+<li> Single point of failure (SPOF): A single point of failure is a component of a system that, if it fails, will cause the entire system to fail. 
+  In the context of web servers, if there is only one web server and it fails, then the website will be unavailable until the web server is fixed or replaced </li>
+
+<li> Downtime when maintenance needed (like deploying new code web server needs to be restarted): When a web server needs to be restarted for maintenance or updates, the website will be unavailable until the web server is back up and running</li>
+
+<li> Cannot scale if too much incoming traffic: If there is too much incoming traffic to a website, a single web server may not be able to handle all of the requests. This can cause the website to slow down or become unavailable </li>
+</ul>
