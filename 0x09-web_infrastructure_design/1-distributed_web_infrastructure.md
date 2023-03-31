@@ -1,4 +1,5 @@
-<img src= "1-distributed_web_infrastructure.jpg">
+![1-distributed_web_infrastructure](https://user-images.githubusercontent.com/77997252/229157262-fa823679-f5d1-4600-a2f3-ef32f5887f1a.jpg)
+
 
 
 <a href= "https://miro.com/app/board/uXjVMXAQurg=/"> Visit Board </a>
