@@ -12,3 +12,5 @@ When you type `https://www.google.com` in your browser and press Enter, the foll
 In summary, when you type https://www.google.com into your browser and press enter, a complex series of steps take place behind the scenes. 
 These include a DNS request, TCP/IP connection, firewall, HTTPS/SSL encryption, load balancing, web server, application server, and database. 
 All these processes work together to deliver the search results that you see on your screen.
+
+<a href="https://www.linkedin.com/posts/isaac-nyarko-a7a08b1b4_alxafrica-alx-activity-7061501269969891328-kRc9?utm_source=share&utm_medium=member_desktop">My Blog post on Linkedin</a>
