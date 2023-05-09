@@ -1,0 +1,14 @@
+When you type `https://www.google.com` in your browser and press Enter, the following steps occur:
+
+1. DNS request: Your browser sends a request to the DNS server to resolve the domain name `www.google.com` into an IP address.
+2. TCP/IP: Once the IP address is obtained, your browser establishes a TCP/IP connection with the server at that IP address.
+3. Firewall: The firewall checks if the request is allowed to pass through to the server.
+4. HTTPS/SSL: If HTTPS is used, your browser and the server establish a secure SSL connection.
+5. Load-balancer: The request is then sent to a load-balancer, which distributes incoming traffic across multiple servers to ensure that no single server is overwhelmed with requests.
+6. Web server: The request is then sent to a web server, which processes it and sends back an HTTP response.
+7. Application server: If the web page requires dynamic content, the request is then sent to an application server, which processes it and sends back an HTTP response.
+8. Database: If the application server needs data from a database, it sends a query to the database and receives a response.
+
+In summary, when you type https://www.google.com into your browser and press enter, a complex series of steps take place behind the scenes. 
+These include a DNS request, TCP/IP connection, firewall, HTTPS/SSL encryption, load balancing, web server, application server, and database. 
+All these processes work together to deliver the search results that you see on your screen.
