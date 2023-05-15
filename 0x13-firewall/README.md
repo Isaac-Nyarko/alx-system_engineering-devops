@@ -1,4 +1,6 @@
-<h1>Firewall</h1>
+![image](https://github.com/Isaac-Nyarko/alx-system_engineering-devops/assets/77997252/98d62745-8424-470e-81e6-ae8c2d2e51ee)
+
+<h1>0x13 Firewall</h1>
 This project contains tasks for learning about how to configure a server's firewall.
 
 <h2>Tasks To Complete</h2>
