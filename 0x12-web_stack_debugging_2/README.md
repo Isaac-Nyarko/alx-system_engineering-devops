@@ -1,3 +1,6 @@
+![image](https://github.com/Isaac-Nyarko/alx-system_engineering-devops/assets/77997252/5ab84bc0-b785-40e4-9431-11a8c8a5babd)
+
+
 Web stack debugging #2
 
 
