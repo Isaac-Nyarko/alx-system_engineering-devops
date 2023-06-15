@@ -1,4 +1,6 @@
-Application Server
+<h1>Application Server</h1>
+
+
 This project contains tasks for learning how to configure a web server (nginx) with an application server (Gunicorn).
 
 Tasks To Complete
